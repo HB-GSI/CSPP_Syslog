@@ -1,6 +1,6 @@
 CSPP_Syslog extends the CSPP_Core package of the CS++-Project. 
 
-It contains a derived class of the CS++MessageLoggerr. 
+It contains a derived class of the CS++MessageLogger. 
 
 Refer to https://github.com/HB-GSI/CSPP for CS++ project overview, details and documentation.
 
@@ -20,7 +20,7 @@ Related documents and information
 
 GIT Submodules
 ==============
-This package can used as submodule
+This package can be used as submodule
 - Packages\CSPP_Syslog: Implementation of CS++MessageLogger class using the Syslog library
 
 External Dependencies
